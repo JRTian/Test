@@ -31,3 +31,4 @@ This is a basic demo of the trading system.
 In the production enviroment, the coding can be improved especially the
 order searching process (heap sorting or half-interval search might be applied)
 more test need to be added to test it thoroughly
+Now the trading process is a synchronized process but should be considered as an asynchronous one.
